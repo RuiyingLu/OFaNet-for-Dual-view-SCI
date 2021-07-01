@@ -4,6 +4,11 @@ This repository contains the code for the paper "Dual-view Snapshot Compressive 
 ## Requirements
 download flownet.yml and install it on your computer 
 
+## Data
+The training data for OFaNet is generated from [DAVIS2017](https://davischallenge.org/davis2017/code.html) with random crop and final obtain 32,000 data pairs. If you want to use the same training data as ours, please run ```generate_simu_data_dualview_with_background.m``` in MATLAB.
+
+The simulation test data including six simulation data and corresponding masks are placed in the ```OFaNet/test_data``` folder.
+
 
 ## Train
 Run
