@@ -19,4 +19,4 @@ python test.py
 Using it to evaluate the preformance on simulation data and we will release the pre-trained model.
 
 ## Contact
-[RuiyingLu, Xidian University](mail to:ruiyinglu_xidian@163.com "ruiyinglu_xidian@163.com") 
+[RuiyingLu, Xidian University](mail to: ruiyinglu_xidian@163.com) 
