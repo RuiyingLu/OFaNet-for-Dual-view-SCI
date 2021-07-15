@@ -1,7 +1,9 @@
 # OFaNet-for-Dual-view-SCI
 This repository contains the code for the paper "Dual-view Snapshot Compressive Imaging via Optical Flow Aided Recurrent Neural Network" by Ruiying Lu, Bo Chen, Guanliang Liu, Ziheng Cheng, Mu Qiao and Xin Yuan.
 
-## Requirements
+Please download the OFanet.zip and uncompressed it.
+
+## Requirements Enverionment
 download flownet.yml and install it on your computer 
 
 ## Data
