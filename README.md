@@ -12,7 +12,7 @@ The training data for OFaNet is generated from [DAVIS2017](https://davischalleng
 The simulation test data including six simulation data and corresponding masks are placed in the ```OFaNet/test_data``` folder.
 
 ## Pretrained model
-You can download the models we trained for each dataset from https://pan.baidu.com/s/1Chh26em3x9FMdEDJMT-SBg 
+You can download the models we trained for simulation dataset from https://pan.baidu.com/s/1Chh26em3x9FMdEDJMT-SBg 
 code：mkjc.
 
 ## Train
